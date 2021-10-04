@@ -1,2 +1,2 @@
 # MICROPROCESSOR_PRINCIPLES_AND_APPLICATIONS
-MICROPROCESSOR_PRINCIPLES_AND_APPLICATIONS project
+Microprocessor Principles and Applications project Smart_Pet_Butler
